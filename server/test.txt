@@ -1,0 +1,29 @@
+{
+  "name": "Sujal Purbey",
+  "age": 28,
+  "bloodGroup": "B+",
+  "city": "Delhi",
+  "email": "sujaladmin@gmail.com",
+  "password": "securePassword123",
+  "lastDonationDate": "2024-12-20",
+  "role": "admin",
+  "state": "Delhi",
+  "address": "123 Rajpath, Connaught Place",
+  "phone": "9876543210",
+  "previousDonations": 3
+}
+
+{
+  "name": "Aditya Prasad",
+  "age": 28,
+  "bloodGroup": "B+",
+  "city": "Delhi",
+  "email": "aditya@gmail.com",
+  "password": "securePassword123",
+  "lastDonationDate": "2024-12-20",
+  "role": "donor",
+  "state": "Delhi",
+  "address": "123 Rajpath, Connaught Place",
+  "phone": "9876543210",
+  "previousDonations": 3
+}
